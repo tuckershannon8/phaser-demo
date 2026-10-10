@@ -2,7 +2,7 @@
 
 This is full codebase from [this](https://www.notion.so/daniellotos/Phaser-js-f70de1dfae1944fe8a0452ac865b90f8) tutorial.
 
-We create your first web game from zero together!
+We create your first web game from zero together!c
 
 ## Languages
 Sorry, only RU for now 😔
